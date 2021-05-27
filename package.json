@@ -1,0 +1,32 @@
+{
+  "name": "backend-compare",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetrallaBG/backend-compare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetrallaBG/backend-compare/issues"
+  },
+  "homepage": "https://github.com/MetrallaBG/backend-compare#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "joi": "^17.4.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.9",
+    "nodemailer": "^6.6.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
+  }
+}
